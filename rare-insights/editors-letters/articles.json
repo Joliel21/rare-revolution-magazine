@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "series": "Editors’ Letters",
+  "slug": "editors-letters",
+  "articlePage": {
+    "eyebrow": "Editors’ Letters",
+    "heading": "Explore the series",
+    "summary": "{count} articles",
+    "maxTitleLength": 58
+  },
+  "repository": "Joliel21/rare-revolution-magazine",
+  "runtimeRole": "canonical-ap-content",
+  "sourceCsv": "rare-insights/editors-letters/source/editors-letters.csv",
+  "imageStrategy": "external-microlink",
+  "articles": [
+    {
+      "id": "parkinson-s-disease-and-the-silent-burden-on-black-families",
+      "title": "Parkinson’s disease and the silent burden on Black families",
+      "author": null,
+      "date": "27 May 2026",
+      "url": "https://rarerevolutionmagazine.com/parkinsons-disease-and-the-silent-burden-on-black-families/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fparkinsons-disease-and-the-silent-burden-on-black-families%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "fighting-for-life-and-hope",
+      "title": "Fighting for life and hope",
+      "author": null,
+      "date": "20 May 2026",
+      "url": "https://rarerevolutionmagazine.com/fighting-for-life-and-hope/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Ffighting-for-life-and-hope%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "the-student-led-revolution-in-medical-genetics",
+      "title": "The student-led revolution in medical genetics",
+      "author": null,
+      "date": "24 April 2026",
+      "url": "https://rarerevolutionmagazine.com/the-student-led-revolution-in-medical-genetics/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fthe-student-led-revolution-in-medical-genetics%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "without-fda-flexibility-for-rare-diseases-our-daughter-s-future-is-at-risk",
+      "title": "Without FDA flexibility for rare diseases our daughter’s future is at risk",
+      "author": null,
+      "date": "8 December 2025",
+      "url": "https://rarerevolutionmagazine.com/without-fda-flexibility-for-rare-diseases-our-daughters-future-is-at-risk/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fwithout-fda-flexibility-for-rare-diseases-our-daughters-future-is-at-risk%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "the-math-is-anything-but-encouraging",
+      "title": "The math is anything but encouraging",
+      "author": null,
+      "date": "12 September 2024",
+      "url": "https://rarerevolutionmagazine.com/the-math-is-anything-but-encouraging/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fthe-math-is-anything-but-encouraging%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-troubling-development-in-access-to-treatment-for-people-living-with-primary-biliary-cholangitis-pbc",
+      "title": "A troubling development in access to treatment for people living with primary biliary cholangitis (PBC)",
+      "author": null,
+      "date": "7 August 2024",
+      "url": "https://rarerevolutionmagazine.com/a-troubling-development-in-access-to-treatment-for-people-living-with-primary-biliary-cholangitis-pbc/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fa-troubling-development-in-access-to-treatment-for-people-living-with-primary-biliary-cholangitis-pbc%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "sarcoma-awareness-month-sarcomas-demand-urgent-awareness-and-education-to-prevent-poor-outcomes",
+      "title": "Sarcoma Awareness Month: Sarcomas demand urgent awareness and education to prevent poor outcomes",
+      "author": null,
+      "date": "24 July 2024",
+      "url": "https://rarerevolutionmagazine.com/sarcoma-awareness-month-sarcomas-demand-urgent-awareness-and-education-to-prevent-poor-outcomes/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fsarcoma-awareness-month-sarcomas-demand-urgent-awareness-and-education-to-prevent-poor-outcomes%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "glass-siblings-an-unnecessary-label",
+      "title": "“Glass siblings”: an unnecessary label",
+      "author": null,
+      "date": "24 June 2024",
+      "url": "https://rarerevolutionmagazine.com/glass-siblings-an-unnecessary-label/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fglass-siblings-an-unnecessary-label%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "when-children-take-their-first-breath-their-care-is-fully-funded-why-isn-t-it-when-they-take-their-last",
+      "title": "When children take their first breath, their care is fully funded. Why isn’t it when they take their last?",
+      "author": null,
+      "date": "31 May 2024",
+      "url": "https://rarerevolutionmagazine.com/when-children-take-their-first-breath-their-care-is-fully-funded-why-isnt-it-when-they-take-their-last/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fwhen-children-take-their-first-breath-their-care-is-fully-funded-why-isnt-it-when-they-take-their-last%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "how-can-we-get-the-patient-heard-by-the-regulators",
+      "title": "How can we get the patient heard by the regulators?",
+      "author": null,
+      "date": "27 March 2024",
+      "url": "https://rarerevolutionmagazine.com/how-can-we-get-the-patient-heard-by-the-regulators/",
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Frarerevolutionmagazine.com%2Fhow-can-we-get-the-patient-heard-by-the-regulators%2F&embed=image.url",
+      "series": "Editors’ Letters",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "sourceArchivePage": "https://rarerevolutionmagazine.com/category/rare-insights/editors-letters/",
+      "metadataStatus": "partial"
+    }
+  ]
+}

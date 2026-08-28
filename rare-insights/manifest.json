@@ -1,0 +1,158 @@
+{
+  "manifestVersion": 1,
+  "section": "RARE INSIGHTS",
+  "entryCount": 16,
+  "seriesCount": 15,
+  "entries": [
+    {
+      "order": 1,
+      "type": "section-divider",
+      "name": "RARE INSIGHTS",
+      "printedPages": [
+        96,
+        97
+      ],
+      "asset": "rare-insights/series-cover-spread/rare-insights-spread-title-page.png"
+    },
+    {
+      "order": 2,
+      "type": "series",
+      "name": "A Day in the Life",
+      "printedPage": 98,
+      "asset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "slug": "a-day-in-a-life",
+      "articlesFile": "rare-insights/a-day-in-a-life/articles.json",
+      "articlePageRenderer": "data-driven",
+      "articleMigrationStatus": "complete"
+    },
+    {
+      "order": 3,
+      "type": "series",
+      "name": "Charity & Advocacy",
+      "printedPage": 100,
+      "asset": "rare-insights/sub-series-title-pages/charity-and-advocacy.png",
+      "slug": "charity-and-advocacy",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 4,
+      "type": "series",
+      "name": "Industry Insights",
+      "printedPage": 102,
+      "asset": "rare-insights/sub-series-title-pages/industry-insights.png",
+      "slug": "industry-insights",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 5,
+      "type": "series",
+      "name": "Editors’ Letters",
+      "printedPage": 104,
+      "asset": "rare-insights/sub-series-title-pages/editors-letters.png",
+      "slug": "editors-letters",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 6,
+      "type": "series",
+      "name": "Medical",
+      "printedPage": 106,
+      "asset": "rare-insights/sub-series-title-pages/medical.png",
+      "slug": "medical",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 7,
+      "type": "series",
+      "name": "News and Press Releases",
+      "printedPage": 108,
+      "asset": "rare-insights/sub-series-title-pages/news-and-press-releases.png",
+      "slug": "news-and-press-releases",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 8,
+      "type": "series",
+      "name": "Patient Voice",
+      "printedPage": 114,
+      "asset": "rare-insights/sub-series-title-pages/patient-voice.png",
+      "slug": "patient-voice",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 9,
+      "type": "series",
+      "name": "Rare Caregiving",
+      "printedPage": 116,
+      "asset": "rare-insights/sub-series-title-pages/rare-caregiving.png",
+      "slug": "rare-caregiving",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 10,
+      "type": "series",
+      "name": "Rare Ramblings",
+      "printedPage": 118,
+      "asset": "rare-insights/sub-series-title-pages/rare-ramblings.png",
+      "slug": "rare-ramblings",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 11,
+      "type": "series",
+      "name": "Rare Rev-inar",
+      "printedPage": 120,
+      "asset": "rare-insights/sub-series-title-pages/rare-rev-inar.png",
+      "slug": "rare-rev-inar",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 12,
+      "type": "series",
+      "name": "Reviews",
+      "printedPage": 122,
+      "asset": "rare-insights/sub-series-title-pages/reviews.png",
+      "slug": "reviews",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 13,
+      "type": "series",
+      "name": "Science and Tech",
+      "printedPage": 124,
+      "asset": "rare-insights/sub-series-title-pages/science-and-tech.png",
+      "slug": "science-and-tech",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 14,
+      "type": "series",
+      "name": "Sunday Sessions",
+      "printedPage": 126,
+      "asset": "rare-insights/sub-series-title-pages/sunday-sessions.png",
+      "slug": "sunday-sessions",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 15,
+      "type": "series",
+      "name": "Travel Series",
+      "printedPage": 128,
+      "asset": "rare-insights/sub-series-title-pages/travel-series.png",
+      "slug": "travel-series",
+      "articleMigrationStatus": "pending"
+    },
+    {
+      "order": 16,
+      "type": "series",
+      "name": "Turning the Tide for Rare Disease",
+      "printedPage": 130,
+      "asset": "rare-insights/sub-series-title-pages/turning-the-tide.png",
+      "slug": "turning-the-tide",
+      "articleMigrationStatus": "pending"
+    }
+  ],
+  "repository": "Joliel21/rare-revolution-magazine",
+  "repositoryRole": "canonical-content-staging",
+  "liveMagazineSource": false
+}

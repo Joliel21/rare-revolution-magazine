@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "series": "A Day in the Life",
+  "slug": "a-day-in-a-life",
+  "articlePage": {
+    "eyebrow": "A Day in the Life",
+    "heading": "Explore the series",
+    "summary": "{count} personal perspectives from everyday rare life",
+    "maxTitleLength": 58
+  },
+  "articles": [
+    {
+      "id": "the-weight-of-stillness-a-journey-with-dystonia-a-first-journal-entry",
+      "title": "The weight of stillness – a journey with dystonia: a first journal entry",
+      "author": null,
+      "date": "1 April 2026",
+      "url": "https://rarerevolutionmagazine.com/the-weight-of-stillness-a-journey-with-dystonia-a-first-journal-entry/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-ac30339e.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-reconciling-grief-and-gratitude",
+      "title": "A day in the life: reconciling grief and gratitude",
+      "author": null,
+      "date": "17 December 2025",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-reconciling-grief-and-gratitude/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-fbcb23d3.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-vicky-mum-to-tiger-lily",
+      "title": "A day in the life: Vicky, Mum to Tiger-Lily",
+      "author": null,
+      "date": "3 December 2025",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-vicky-mum-to-tiger-lily/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-b8c2dc6a.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-living-with-sickle-cell-anaemia-naomis-story",
+      "title": "A Day in the Life: living with sickle cell anaemia-Naomi’s story",
+      "author": null,
+      "date": "23 October 2024",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-living-with-sickle-cell-anaemia-naomis-story/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-1b37ffdf.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-of-a-pspa-helpline-manager",
+      "title": "A day in the life of a PSPA helpline manager",
+      "author": null,
+      "date": "14 October 2024",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-of-a-pspa-helpline-manager/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-1c807df5.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "drunk-or-disabled-challenges-with-ataxia",
+      "title": "Drunk or disabled? – challenges with ataxia",
+      "author": null,
+      "date": "16 September 2024",
+      "url": "https://rarerevolutionmagazine.com/drunk-or-disabled-challenges-with-ataxia/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-2b90dcde.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "josiahstrong-living-with-familial-cold-autoinflammatory-syndrome-one-year-on",
+      "title": "#JosiahStrong: Living with familial cold autoinflammatory syndrome—one year on",
+      "author": null,
+      "date": "14 August 2024",
+      "url": "https://rarerevolutionmagazine.com/josiahstrong-living-with-familial-cold-autoinflammatory-syndrome-one-year-on/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-6ec21bb2.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "if-youre-not-dancing-something-is-wrong",
+      "title": "If you’re not dancing, something is wrong…",
+      "author": null,
+      "date": "1 May 2024",
+      "url": "https://rarerevolutionmagazine.com/if-youre-not-dancing-something-is-wrong/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-4e04e52c.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-living-with-dyskeratosis-congenita-dc-paulas-story",
+      "title": "A day in the life: living with dyskeratosis congenita (DC)—Paula’s story",
+      "author": null,
+      "date": "19 April 2024",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-living-with-dyskeratosis-congenita-dc-paulas-story/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-e618a3aa.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-living-with-bardet-biedl-syndrome-tessas-story",
+      "title": "A day in the life: living with Bardet-Biedl syndrome—Tessa’s story",
+      "author": null,
+      "date": "16 February 2024",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-living-with-bardet-biedl-syndrome-tessas-story/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-7449b9d2.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "davids-journey-with-stiff-person-syndrome",
+      "title": "Don’t let your condition define you! David’s journey with stiff person syndrome",
+      "author": null,
+      "date": "14 February 2024",
+      "url": "https://rarerevolutionmagazine.com/davids-journey-with-stiff-person-syndrome/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-f7d202ae.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-a-medically-complex-condition-that-is-as-unpredictable-as-the-weather",
+      "title": "A day in the life: a medically complex condition that is as unpredictable as the weather",
+      "author": null,
+      "date": "29 November 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-a-medically-complex-condition-that-is-as-unpredictable-as-the-weather/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-e2bebbb2.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-navigating-our-way-through-the-labyrinth-of-a-newly-discovered-disease",
+      "title": "A day in the life: navigating our way through the labyrinth of a newly discovered disease",
+      "author": null,
+      "date": "9 October 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-navigating-our-way-through-the-labyrinth-of-a-newly-discovered-disease/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-8ad0118b.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-a-glimpse-into-my-life-living-with-scleroderma",
+      "title": "A day in the life: a glimpse into my life living with scleroderma",
+      "author": null,
+      "date": "15 September 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-a-glimpse-into-my-life-living-with-scleroderma/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-f1772b64.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-graduation-day-for-raymond-humls-son-jon",
+      "title": "A day in the life: graduation day for Raymond Huml’s son, Jon",
+      "author": null,
+      "date": "25 July 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-graduation-day-for-raymond-humls-son-jon/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-1b5cb7a6.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-josiahs-diagnosis-with-familial-cold-autoinflammatory-syndrome",
+      "title": "A day in the life: Josiah’s diagnosis with familial cold autoinflammatory syndrome",
+      "author": null,
+      "date": "28 June 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-josiahs-diagnosis-with-familial-cold-autoinflammatory-syndrome/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-f41a9cb2.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-cathy-moughton-pspa-helpline-care-navigator",
+      "title": "A day in the life: Cathy Moughton, PSPA helpline care navigator",
+      "author": null,
+      "date": "24 May 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-cathy-moughton-pspa-helpline-care-navigator/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-1045279c.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-with-hypokalemic-periodic-paralysis-ralph-berthiaume",
+      "title": "A day in the life with hypokalemic periodic paralysis: Ralph Berthiaume",
+      "author": null,
+      "date": "1 May 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-with-hypokalemic-periodic-paralysis-ralph-berthiaume/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-cc1b8866.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "a-day-in-the-life-with-behcets-disease-pamela-price",
+      "title": "A day in the life with Behcet’s disease: Pamela Price",
+      "author": null,
+      "date": "29 March 2023",
+      "url": "https://rarerevolutionmagazine.com/a-day-in-the-life-with-behcets-disease-pamela-price/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-58bd1f01.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "my-year-at-rare-youth-revolution",
+      "title": "My year at RARE Youth Revolution",
+      "author": null,
+      "date": "26 January 2022",
+      "url": "https://rarerevolutionmagazine.com/my-year-at-rare-youth-revolution/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-2eccdb57.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "realising-our-workplace-vision-2",
+      "title": "Realising our workplace vision",
+      "author": null,
+      "date": "6 October 2021",
+      "url": "https://rarerevolutionmagazine.com/realising-our-workplace-vision-2/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-c18012e6.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "rare-employment-qa-with-police-inspector-david-singleton-2",
+      "title": "RARE Employment Q&A with Police Inspector David Singleton",
+      "author": null,
+      "date": "6 October 2021",
+      "url": "https://rarerevolutionmagazine.com/rare-employment-qa-with-police-inspector-david-singleton-2/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-e92fa320.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    },
+    {
+      "id": "professional-careers-and-rare-disease-finding-a-balance-that-works-2",
+      "title": "Professional careers and rare disease – finding a balance that works",
+      "author": null,
+      "date": "6 October 2021",
+      "url": "https://rarerevolutionmagazine.com/professional-careers-and-rare-disease-finding-a-balance-that-works-2/",
+      "image": "rare-insights/a-day-in-a-life/images/a-day-in-the-life-b8a16f68.png",
+      "series": "A Day in the Life",
+      "titlePageAsset": "rare-insights/sub-series-title-pages/a-day-in-a-life.png",
+      "metadataStatus": "partial"
+    }
+  ],
+  "repository": "Joliel21/rare-revolution-magazine",
+  "runtimeRole": "canonical-ap-content",
+  "sourceCsv": "rare-insights/a-day-in-a-life/source/a-day-in-a-life.csv"
+}

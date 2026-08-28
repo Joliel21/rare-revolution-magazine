@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "articleFields": {
+    "id": "stable article slug/id",
+    "title": "exact published article title or null until verified",
+    "author": "exact published author/byline or null until verified",
+    "date": "publication date or null until verified",
+    "url": "canonical published article URL or null until verified",
+    "image": "verified RARE Revolution article image path or source URL, or null until verified",
+    "series": "RARE INSIGHTS series display name",
+    "titlePageAsset": "authoritative series title-page asset path in Joliel21/RRM/main",
+    "metadataStatus": "complete, partial, or pending-migration"
+  },
+  "rules": [
+    "Do not invent missing title, author, date, URL, or image metadata.",
+    "Use exact published metadata when verified.",
+    "Use the image used by RARE Revolution for the article whenever verified.",
+    "Add new articles to the matching series articles.json inventory first.",
+    "Title-page artwork remains under series/rare-insights/ and is referenced by manifest.json.",
+    "Travel Series is part of the approved 15-series structure and must not be removed.",
+    "Clickable behavior belongs in the magazine hotspot/link layer, not in artwork files."
+  ]
+}

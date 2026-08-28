@@ -1,0 +1,51 @@
+name: Finalize RARE Insights batch 1
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/finalize-rare-insights-batch1.yml
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Build five canonical series packages
+        run: python3 .github/scripts/finalize_rare_insights_batch1.py
+      - name: Validate counts and manifest
+        run: |
+          python3 - <<'PY'
+          import json
+          expected={
+            'charity-and-advocacy':98,
+            'industry-insights':33,
+            'editors-letters':10,
+            'medical':33,
+            'rare-employment':4,
+          }
+          for slug,count in expected.items():
+              p=json.load(open(f'rare-insights/{slug}/articles.json',encoding='utf-8'))
+              assert len(p['articles']) == count, (slug,len(p['articles']),count)
+          m=json.load(open('rare-insights/manifest.json',encoding='utf-8'))
+          entries={e.get('slug'):e for e in m['entries'] if e.get('slug')}
+          for slug in ('charity-and-advocacy','industry-insights','editors-letters','medical'):
+              assert entries[slug]['articleMigrationStatus']=='complete'
+              assert entries[slug]['articlesFile']==f'rare-insights/{slug}/articles.json'
+          assert 'rare-employment' not in entries
+          print('validated')
+          PY
+      - name: Commit batch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rare-insights
+          git commit -m "Import RARE Insights article data batch 1"
+          git pull --rebase origin main
+          git push origin main

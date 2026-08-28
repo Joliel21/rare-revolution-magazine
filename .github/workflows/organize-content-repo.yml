@@ -27,12 +27,7 @@ jobs:
           python3 -m json.tool rare-insights/schema.json > /dev/null
           python3 -m json.tool rare-insights/a-day-in-a-life/articles.json > /dev/null
           test "$(find rare-insights/sub-series-title-pages -maxdepth 1 -type f -name '*.png' | wc -l)" -eq 15
-          test "$(python3 - <<'PY'
-import json
-p=json.load(open('rare-insights/a-day-in-a-life/articles.json', encoding='utf-8'))
-print(len(p['articles']))
-PY
-)" -eq 23
+          test "$(python3 -c "import json; print(len(json.load(open('rare-insights/a-day-in-a-life/articles.json', encoding='utf-8'))['articles']))")" -eq 23
       - name: Commit organized repository
         run: |
           git config user.name "github-actions[bot]"

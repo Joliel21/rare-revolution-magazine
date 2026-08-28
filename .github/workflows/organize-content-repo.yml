@@ -1,0 +1,45 @@
+name: Organize canonical content repository
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/organize-content-repo.yml
+
+permissions:
+  contents: write
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch current RRM source
+        run: git clone --depth 1 https://github.com/Joliel21/RRM.git /tmp/rrm
+      - name: Build canonical content tree
+        run: python3 .github/scripts/organize_content_repo.py /tmp/rrm
+      - name: Validate JSON and structure
+        run: |
+          python3 -m json.tool rare-insights/manifest.json > /dev/null
+          python3 -m json.tool rare-insights/schema.json > /dev/null
+          python3 -m json.tool rare-insights/a-day-in-a-life/articles.json > /dev/null
+          test "$(find rare-insights/sub-series-title-pages -maxdepth 1 -type f -name '*.png' | wc -l)" -eq 15
+          test "$(python3 - <<'PY'
+import json
+p=json.load(open('rare-insights/a-day-in-a-life/articles.json', encoding='utf-8'))
+print(len(p['articles']))
+PY
+)" -eq 23
+      - name: Commit organized repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git reset .github/scripts/organize_content_repo.py .github/workflows/organize-content-repo.yml
+          git commit -m "Organize RARE Insights canonical content repository"
+          git restore .github/scripts/organize_content_repo.py .github/workflows/organize-content-repo.yml
+          git pull --rebase origin main
+          git push origin main

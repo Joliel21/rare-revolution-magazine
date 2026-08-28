@@ -32,7 +32,9 @@
       "printedPage": 100,
       "asset": "rare-insights/sub-series-title-pages/charity-and-advocacy.png",
       "slug": "charity-and-advocacy",
-      "articleMigrationStatus": "pending"
+      "articleMigrationStatus": "complete",
+      "articlesFile": "rare-insights/charity-and-advocacy/articles.json",
+      "articlePageRenderer": "data-driven"
     },
     {
       "order": 4,
@@ -41,7 +43,9 @@
       "printedPage": 102,
       "asset": "rare-insights/sub-series-title-pages/industry-insights.png",
       "slug": "industry-insights",
-      "articleMigrationStatus": "pending"
+      "articleMigrationStatus": "complete",
+      "articlesFile": "rare-insights/industry-insights/articles.json",
+      "articlePageRenderer": "data-driven"
     },
     {
       "order": 5,
@@ -50,7 +54,9 @@
       "printedPage": 104,
       "asset": "rare-insights/sub-series-title-pages/editors-letters.png",
       "slug": "editors-letters",
-      "articleMigrationStatus": "pending"
+      "articleMigrationStatus": "complete",
+      "articlesFile": "rare-insights/editors-letters/articles.json",
+      "articlePageRenderer": "data-driven"
     },
     {
       "order": 6,
@@ -59,7 +65,9 @@
       "printedPage": 106,
       "asset": "rare-insights/sub-series-title-pages/medical.png",
       "slug": "medical",
-      "articleMigrationStatus": "pending"
+      "articleMigrationStatus": "complete",
+      "articlesFile": "rare-insights/medical/articles.json",
+      "articlePageRenderer": "data-driven"
     },
     {
       "order": 7,
